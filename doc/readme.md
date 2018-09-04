@@ -1,1 +1,1 @@
-Описание компиляции необходимых компонентов для осуществления ETM трассировки на платах dragonboard 410c и hikey960
+Description compiling the necessary components for the ETM trace implementation on dragonboard 410c and hikey960
